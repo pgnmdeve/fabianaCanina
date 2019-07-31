@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1080px" height="600px" viewBox="0 0 1080 600" enable-background="new 0 0 1080 600" xml:space="preserve">
+<pattern  width="9.497" height="9.497" patternUnits="userSpaceOnUse" id="Unnamed_Pattern" viewBox="0 -9.497 9.497 9.497" overflow="visible">
+	<g>
+		<polygon fill="none" points="0,-9.497 9.497,-9.497 9.497,0 0,0 		"/>
+		<path fill="#FFFFFF" d="M5.94-4.749c0-0.658-0.534-1.191-1.192-1.191c-0.658,0-1.192,0.533-1.192,1.191S4.09-3.557,4.749-3.557
+			C5.406-3.557,5.94-4.091,5.94-4.749"/>
+	</g>
+</pattern>
+<rect x="782.72" y="36.471" fill="#217D5A" width="298.321" height="563.561"/>
+<path fill="#2C9975" d="M792.479,502.047c6.671-21.376,26.862-56.747,59.778-85.486c65.13-56.862,162.024-111.596,176.196-147.441
+	c25.717-65.049-22.862-161.787,53.91-189.884l0.203-80.425h-460.65c-56.364,205.097,78.281,300.97,117.406,434.13
+	c31.885,108.514-4.677,168.249-4.677,168.249H801.7C784.464,577.62,778.851,545.723,792.479,502.047z"/>
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="506.776" y="-50.832" width="203.092" height="203.092"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	
+		<pattern  id="SVGID_3_" xlink:href="#Unnamed_Pattern" patternTransform="matrix(0.9859 -0.9859 -0.9859 -0.9859 7936.9336 -5425.8506)">
+	</pattern>
+	<path clip-path="url(#SVGID_2_)" fill="url(#SVGID_3_)" d="M506.776,50.714c0-56.082,45.463-101.546,101.546-101.546
+		c56.082,0,101.546,45.464,101.546,101.546S664.404,152.26,608.322,152.26C552.239,152.26,506.776,106.796,506.776,50.714"/>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_4_" x="-34.388" y="441.218" width="203.092" height="203.092"/>
+	</defs>
+	<clipPath id="SVGID_5_">
+		<use xlink:href="#SVGID_4_"  overflow="visible"/>
+	</clipPath>
+	
+		<pattern  id="SVGID_6_" xlink:href="#Unnamed_Pattern" patternTransform="matrix(0.9859 -0.9859 -0.9859 -0.9859 7920.1045 -5420.6807)">
+	</pattern>
+	<path clip-path="url(#SVGID_5_)" fill="url(#SVGID_6_)" d="M-34.388,542.764c0-56.082,45.463-101.546,101.546-101.546
+		c56.082,0,101.546,45.464,101.546,101.546S123.24,644.31,67.158,644.31C11.075,644.31-34.388,598.846-34.388,542.764"/>
+</g>
+</svg>

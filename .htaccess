@@ -1,0 +1,10 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine on
+    Rewriterule ^home index.php
+    Rewriterule ^servicios servicio.php
+    Rewriterule ^prueba prueba.php
+
+    
+    RewriteCond %{HTTPS} on
+    RewriteRule .* https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+</IfModule>
